@@ -25,4 +25,4 @@ Comecei minha base na **ETEC** com **HTML, CSS e JavaScript**, e hoje sigo evolu
 --- 
 ## 📬 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/raissaneri-dev)  
-- [E-mail](mailto:issaneri190@gmial.com)  
+- [E-mail](mailto:Raissa.neri190@gmail.com)  
