@@ -1,28 +1,49 @@
-# Raissa-Neri  
+# 👋 Oi, eu sou a Raissa Neri
 
-Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, apaixonada por tecnologia e sempre em busca de aprender mais.  
-Comecei minha base na **ETEC** com **HTML, CSS e JavaScript**, e hoje sigo evoluindo na **Uninove** e no **curso de Desenvolvimento Web da Angela Yu**, onde estou aprendendo muito sobre **React** e outras linguagens.  
+💻 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por criar interfaces modernas, responsivas e intuitivas.  
+Atualmente focada em **Front-end Development**, aprendendo **React.js**, **JavaScript**, **HTML**, **CSS** e boas práticas de design.  
 
----
-
-## 📚 O que estou estudando
-- HTML → estrutura de páginas  
-- CSS → estilos, layouts e responsividade  
-- JavaScript → lógica e interatividade  
-- React → em andamento pelo curso da Angela Yu  
+Busco minha primeira oportunidade como **Desenvolvedora Front-end**, especialmente em empresas que respiram tecnologia e inovação
+Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiências digitais reais.
 
 ---
 
-## 🚀 Projetos em andamento
-- Spotify Clone – HTML, CSS, JS  
-- Netflix Clone – HTML, CSS, JS  
-- Nike Store – HTML, CSS, JS  
-- Instagram Profile – HTML, CSS, JS  
-- Google Search – HTML, CSS, JS  
+## 🚀 Tecnologias que estudo e utilizo
 
-*(e outros que vou atualizar aqui com o tempo!)*  
+🟡 **Front-end:** React.js | JavaScript ES6+ | HTML5 | CSS3  
+⚙️ **Versionamento:** Git | GitHub  
+🎨 **Design:** Figma | UI/UX | Responsividade  
+🧠 **Outros:** Lógica de Programação | APIs | MVC básico
 
---- 
+---
+
+## 📁 Projetos em destaque
+
+| Projeto | Descrição | Tecnologias |
+|----------|------------|--------------|
+| [**Dashboard Financeiro 💰**](#) | Painel com saldo, histórico e gráficos interativos. | React, HTML, CSS, JS |
+| [**Landing Page Banco Digital 🏦**](#) | Página moderna com animações e formulário. | HTML, CSS, JavaScript |
+| [**E-commerce Tech Store 💻**](#) | Loja online com carrinho e filtros dinâmicos. | React, CSS, JS |
+
+> 💡 *Os projetos estão em constante evolução — foco é aplicar o que aprendo nos estudos e deixar tudo cada vez mais profissional.*
+
+---
+
+## 🎓 Formação e Certificados
+
+🎓 **Análise e Desenvolvimento de Sistemas – UNINOVE** (em andamento)  
+🧾 **Desenvolvimento Web Full-Stack – Angela Yu (Udemy)**  
+🧾 **Inglês Técnico para Programadores – Giorgi Academy**  
+🧾 **Fundamentos de Lógica e Programação – UNINOVE**
+
+---
+
 ## 📬 Onde me encontrar
-- [LinkedIn](https://www.linkedin.com/in/raissaneri-dev)  
-- [E-mail](mailto:Raissa.neri190@gmail.com)  
+
+📧 **Email:** [issaneri190@gmail.com](mailto:issaneri190@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/raissaneri-dev](https://www.linkedin.com/in/raissaneri-dev)  
+🌐 **Portfólio:** [meuportifolio-raissaneri.netlify.app](https://meuportifolio-raissaneri.netlify.app)
+
+---
+
+✨ *"Aprender, criar e evoluir — um código de cada vez."*  
