@@ -3,7 +3,8 @@
 💻 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por criar interfaces modernas, responsivas e intuitivas.  
 Atualmente focada em **Front-end Development**, aprendendo **React.js**, **JavaScript**, **HTML**, **CSS** e boas práticas de design.  
 
-Busco minha primeira oportunidade como **Desenvolvedora Front-end**, especialmente em empresas que respiram tecnologia e inovação
+Busco minha primeira oportunidade como **Desenvolvedora Front-end**, especialmente em empresas que respiram tecnologia e inovação.
+
 Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiências digitais reais.
 
 ---
