@@ -11,7 +11,7 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 
 ## 🚀 Tecnologias que estudo e utilizo
 
-🟡 **Front-end:** React.js | JavaScript | HTML5 | CSS3  
+🟡 **Front-end:** React.js | JavaScript | HTML5 | CSS3  | Node.js
 ⚙️ **Versionamento:** Git | GitHub  
 🎨 **Design:** Figma | UI/UX | Responsividade  
 🧠 **Outros:** Lógica de Programação | APIs | MVC básico | Node.js | SQL  
