@@ -11,7 +11,7 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 
 ## 🚀 Tecnologias que estudo e utilizo
 
-🟡 **Front-end:** React.js | JavaScript | HTML5 | CSS3 
+🟡 **Front-end:** React.js | JavaScript | HTML5 | CSS3  
 ⚙️ **Versionamento:** Git | GitHub  
 🎨 **Design:** Figma | UI/UX | Responsividade  
 🧠 **Outros:** Lógica de Programação | APIs | MVC básico | Node.js | SQL  
@@ -22,7 +22,7 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**Dashboard Financeiro 💰**](#) | Painel com saldo, histórico e gráficos interativos. | React, HTML, CSS, JS |
+| [**Dashboard Financeiro 💰**](#) | Painel com saldo, histórico e gráficos interativos. | React, HTML, CSS, JS, Node.js|
 | [**Landing Page Banco Digital 🏦**](#) | Página moderna com animações e formulário funcional. | HTML, CSS, JavaScript |
 | [**E-commerce Tech Store 💻**](#) | Loja online com carrinho e filtros dinâmicos. | React, CSS, JS |
 
