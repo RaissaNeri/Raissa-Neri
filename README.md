@@ -9,7 +9,7 @@ Sou curiosa, dedicada e gosto de aprender fazendo. Quanto mais desafio aparece, 
 
 🚀 Tecnologias que estudo e utilizo
 
-🟡 Front-end: React.js | JavaScript (ES6+) | HTML5 | CSS3
+🟡 Front-end: React.js | JavaScript | HTML5 | CSS3
 ⚙️ Versionamento: Git | GitHub
 🎨 Design: Figma | UI/UX | Responsividade
 🧠 Outros: Node.js | Lógica de Programação | APIs | Estrutura MVC básica | SQL
