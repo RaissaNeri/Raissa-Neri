@@ -11,10 +11,10 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 
 ## 🚀 Tecnologias que estudo e utilizo
 
-🟡 **Front-end:** React.js | JavaScript | HTML5 | CSS3  
+🟡 **Front-end:** React.js | JavaScript | HTML5 | CSS3 | Chart.js  
 ⚙️ **Versionamento:** Git | GitHub  
 🎨 **Design:** Figma | UI/UX | Responsividade  
-🧠 **Outros:** Lógica de Programação | APIs | MVC básico | Node.js | SQL  
+🧠 **Outros:** Node.js | SQL | Lógica de Programação | APIs | MVC básico  
 
 ---
 
@@ -22,20 +22,20 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**Dashboard Financeiro 💰**](#) | Painel com saldo, histórico e gráficos interativos. | React, HTML, CSS, JS, Node.js|
-| [**Landing Page Banco Digital 🏦**](#) | Página moderna com animações e formulário funcional. | HTML, CSS, JavaScript |
-| [**E-commerce Tech Store 💻**](#) | Loja online com carrinho e filtros dinâmicos. | React, CSS, JS |
+| [**Dashboard Financeiro 💰**](#) | Painel interativo com saldo, histórico e gráficos dinâmicos usando **Chart.js**. | React.js, Chart.js, HTML, CSS, Node.js |
+| [**Landing Page Banco Digital 🏦**](#) | Página moderna com animações suaves e formulário funcional. | HTML, CSS, JavaScript |
+| [**E-commerce Tech Store 💻**](#) | Loja online com carrinho, filtros e design responsivo. | React.js, CSS, JavaScript |
 
-> 💡 *Os projetos estão em constante evolução — foco é aplicar o que aprendo nos estudos e deixar tudo cada vez mais profissional.*
+> 💡 *Os projetos estão em constante evolução — foco em aplicar o que aprendo nos estudos e deixar tudo cada vez mais profissional.*
 
 ---
 
 ## 🎓 Formação e Certificados
 
-🎓 **Análise e Desenvolvimento de Sistemas – UNINOVE** (em andamento)  
-🧾 **Desenvolvimento Web Full-Stack – Angela Yu (Udemy)**  (em andamento)  
-🧾 **Inglês Técnico para Programadores – Giorgi Academy**  (em andamento)  
-🧾 **Fundamentos de Lógica e Programação – UNINOVE** (em andamento)  
+🎓 **Análise e Desenvolvimento de Sistemas – UNINOVE** *(em andamento)*  
+🧾 **Desenvolvimento Web Full-Stack – Angela Yu (Udemy)** *(em andamento)*  
+🧾 **Inglês Técnico para Programadores – Giorgi Academy** *(em andamento)*  
+🧾 **Fundamentos de Lógica e Programação – UNINOVE** *(em andamento)*  
 
 ---
 
@@ -47,4 +47,3 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 
 ---
 
-✨ *"Aprender, criar e evoluir — um código de cada vez."*
