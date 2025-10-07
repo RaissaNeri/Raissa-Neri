@@ -33,9 +33,9 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 ## 🎓 Formação e Certificados
 
 🎓 **Análise e Desenvolvimento de Sistemas – UNINOVE** (em andamento)  
-🧾 **Desenvolvimento Web Full-Stack – Angela Yu (Udemy)**  
-🧾 **Inglês Técnico para Programadores – Giorgi Academy**  
-🧾 **Fundamentos de Lógica e Programação – UNINOVE**
+🧾 **Desenvolvimento Web Full-Stack – Angela Yu (Udemy)**  (em andamento)  
+🧾 **Inglês Técnico para Programadores – Giorgi Academy**  (em andamento)  
+🧾 **Fundamentos de Lógica e Programação – UNINOVE** (em andamento)  
 
 ---
 
