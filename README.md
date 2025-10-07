@@ -1,50 +1,47 @@
-# 👋 Oi, eu sou a Raissa Neri
+👋 Oi, eu sou a Raissa Neri
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas** e apaixonada por criar interfaces modernas, responsivas e intuitivas.  
-Atualmente focada em **Front-end Development**, aprendendo **React.js**, **JavaScript**, **HTML**, **CSS** e boas práticas de design.  
+💻 Estudante de Análise e Desenvolvimento de Sistemas (ADS) e apaixonada por criar interfaces modernas, responsivas e funcionais.
+Atualmente focada em Desenvolvimento Front-end, estudando React.js, JavaScript, HTML5, CSS3 e boas práticas de design e usabilidade.
 
-Busco minha primeira oportunidade como **Desenvolvedora Front-end**, especialmente em empresas que respiram tecnologia e inovação.
+Busco minha primeira oportunidade como Desenvolvedora Front-end, especialmente em empresas que valorizam aprendizado contínuo, inovação e colaboração.
 
-Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiências digitais reais.
+Sou curiosa, dedicada e gosto de aprender fazendo. Quanto mais desafio aparece, mais vontade eu tenho de evoluir. 🚀
 
----
+🚀 Tecnologias que estudo e utilizo
 
-## 🚀 Tecnologias que estudo e utilizo
+🟡 Front-end: React.js | JavaScript (ES6+) | HTML5 | CSS3
+⚙️ Versionamento: Git | GitHub
+🎨 Design: Figma | UI/UX | Responsividade
+🧠 Outros: Node.js | Lógica de Programação | APIs | Estrutura MVC básica | SQL
 
-🟡 **Front-end:** React.js | JavaScript | HTML5 | CSS3  
-⚙️ **Versionamento:** Git | GitHub  
-🎨 **Design:** Figma | UI/UX | Responsividade  
-🧠 **Outros:** Lógica de Programação | APIs | MVC básico|Node.js
+📁 Projetos em destaque
+Projeto	Descrição	Tecnologias
+Dashboard Financeiro 💰
+	Painel com saldo, histórico e gráficos interativos.	React, HTML, CSS, JS, Node.js
+Landing Page Banco Digital 🏦
+	Página moderna com animações e formulário funcional.	HTML, CSS, JavaScript
+E-commerce Tech Store 💻
+	Loja online com carrinho, filtros e responsividade.	React, CSS, JS
+Clone Google Search 🔍
+	Simulação da página de busca do Google, com layout fiel.	HTML, CSS, JS
+NextBank App 🧡
+	Sistema bancário inspirado no Itaú, com saldo e gráfico dinâmico.	React, Node.js, CSS
 
----
+💡 Todos os projetos estão em constante evolução — cada um representa um passo no meu aprendizado e na minha transição pra área de tecnologia.
 
-## 📁 Projetos em destaque
+🎓 Formação e Certificados
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| [**Dashboard Financeiro 💰**](#) | Painel com saldo, histórico e gráficos interativos. | React, HTML, CSS, JS |
-| [**Landing Page Banco Digital 🏦**](#) | Página moderna com animações e formulário. | HTML, CSS, JavaScript |
-| [**E-commerce Tech Store 💻**](#) | Loja online com carrinho e filtros dinâmicos. | React, CSS, JS |
+🎓 Análise e Desenvolvimento de Sistemas – UNINOVE (em andamento)
+🧾 Desenvolvimento Web Full-Stack – Angela Yu (Udemy) (em andamento)
+🧾 Inglês Técnico para Programadores – Giorgi Academy (em andamento)
+🧾 Fundamentos de Lógica e Programação – UNINOVE
 
-> 💡 *Os projetos estão em constante evolução — foco é aplicar o que aprendo nos estudos e deixar tudo cada vez mais profissional.*
+📬 Onde me encontrar
 
----
+📧 Email: issaneri190@gmail.com
 
-## 🎓 Formação e Certificados
+💼 LinkedIn: linkedin.com/in/raissaneri-dev
 
-🎓 **Análise e Desenvolvimento de Sistemas – UNINOVE** (em andamento)  
-🧾 **Desenvolvimento Web Full-Stack – Angela Yu (Udemy)**  
-🧾 **Inglês Técnico para Programadores – Giorgi Academy**  
-🧾 **Fundamentos de Lógica e Programação – UNINOVE**
+🌐 Portfólio: meuportifolio-raissaneri.netlify.app
 
----
-
-## 📬 Onde me encontrar
-
-📧 **Email:** [issaneri190@gmail.com](mailto:issaneri190@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/raissaneri-dev](https://www.linkedin.com/in/raissaneri-dev)  
-🌐 **Portfólio:** [meuportifolio-raissaneri.netlify.app](https://meuportifolio-raissaneri.netlify.app)
-
----
-
-✨ *"Aprender, criar e evoluir — um código de cada vez."*  
+✨ “Aprender, criar e evoluir — um código de cada vez.”
