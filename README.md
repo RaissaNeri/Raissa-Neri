@@ -22,7 +22,7 @@ Gosto de aprender rápido, colaborar em equipe e transformar ideias em experiên
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**Dashboard Financeiro 💰**](#) | Painel interativo com saldo, histórico e gráficos dinâmicos usando **Chart.js**. | React.js, Chart.js, HTML, CSS, Node.js |
+| [**Dashboard Financeiro 💰**](#) | Painel interativo com saldo, histórico e gráficos dinâmicos. | React.js, Chart.js, HTML, CSS, Node.js |
 | [**Landing Page Banco Digital 🏦**](#) | Página moderna com animações suaves e formulário funcional. | HTML, CSS, JavaScript |
 | [**E-commerce Tech Store 💻**](#) | Loja online com carrinho, filtros e design responsivo. | React.js, CSS, JavaScript |
 
