@@ -18,12 +18,16 @@ Sou curiosa, dedicada e gosto de aprender fazendo. Quanto mais desafio aparece, 
 Projeto	Descrição	Tecnologias
 Dashboard Financeiro 💰
 	Painel com saldo, histórico e gráficos interativos.	React, HTML, CSS, JS, Node.js
+	
 Landing Page Banco Digital 🏦
 	Página moderna com animações e formulário funcional.	HTML, CSS, JavaScript
+	
 E-commerce Tech Store 💻
 	Loja online com carrinho, filtros e responsividade.	React, CSS, JS
+	
 Clone Google Search 🔍
 	Simulação da página de busca do Google, com layout fiel.	HTML, CSS, JS
+	
 NextBank App 🧡
 	Sistema bancário inspirado no Itaú, com saldo e gráfico dinâmico.	React, Node.js, CSS
 
