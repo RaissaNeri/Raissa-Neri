@@ -20,7 +20,7 @@ Sou curiosa, persistente e gosto de aprender fazendo. Nada me deixa mais feliz d
 
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [**Dashboard Financeiro 💰**](#) | Painel com saldo, histórico e gráficos dinâmicos. | React.js, Chart.js, HTML, CSS |
+| [**Dashboard Financeiro 💰**](https://dashboard-financeiro-raissaneri.netlify.app) | Painel com saldo, histórico e gráficos dinâmicos. | React.js, Chart.js, HTML, CSS |
 | [**Landing Page Banco Digital 🏦**](#) | Página moderna com animações suaves e formulário funcional. | HTML, CSS, JavaScript |
 | [**E-commerce Tech Store 💻**](#) | Loja online com carrinho, filtros e design responsivo. | React.js, CSS, JavaScript |
 
